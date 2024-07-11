@@ -12,4 +12,4 @@
     console.log(getShippingMessage("Sweden", 100, 20)); // "Shipping to Sweden will cost 120 credits" 
     
     // Testowanie  dowolnych wartości
-    console.log(getShippingMessage("Brasil", 150, 100)); // "Shipping to Australia will cost 170 credits"
+    console.log(getShippingMessage("Brasil", 150, 100)); // "Shipping to Brasil will cost 250 credits"
